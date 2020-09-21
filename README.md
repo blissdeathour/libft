@@ -1,5 +1,6 @@
 # Libft
-Libft is a School 42 project. `\n`
+Libft is a School 42 project.
+
 At school, students are not allowed to use C library functions (such as `strcat`, `atoi`, `bzero` etc.). The task is to recreate various standard C library functions.
 
 [`libft.en.pdf`](/libft.en.pdf) is the task file.
